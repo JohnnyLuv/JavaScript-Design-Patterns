@@ -1,0 +1,19 @@
+{
+  "name": "JavaScript-Design-Patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:JohnnyLuv/JavaScript-Design-Patterns.git",
+  "author": "Johnny <949394771@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
